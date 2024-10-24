@@ -18,7 +18,7 @@ variables:
 
   # Agent VM image name
 pool:
- name: Self Hosted Agent Pool
+  name: "Self Hosted Pool"
 
 stages:
 - stage: Build
